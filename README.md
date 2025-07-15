@@ -5,11 +5,7 @@ Claro! Abaixo está um modelo de **README.md completo e profissional** para o se
 
 ## 🧠 Assistente de Programação com Gemini API
 
-Este é um projeto de um assistente inteligente para estudos de **programação e tecnologia**, que utiliza a **API Gemini (Google AI)** para responder perguntas com explicações, exemplos de código e conceitos técnicos.
-
-<p align="center">
-  <img src="./assets/logo.png" alt="Logo do Assistente" width="300"/>
-</p>
+Este é um projeto de um assistente inteligente para estudos de **programação e tecnologia**, que utiliza a **API Gemini (Google AI)** para responder perguntas com explicações, exemplos de código e conceitos técnicos. 
 
 ---
 
