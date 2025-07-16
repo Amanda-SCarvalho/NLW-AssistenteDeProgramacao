@@ -25,7 +25,7 @@ Este é um projeto de um assistente inteligente para estudos de **programação 
 
 ### 📸 Preview
 
-![Interface do Assistente de Programação](./assets/preview.jpg)
+![Interface do Assistente de Programação](/Assistente-de-Programacao-NLW/assets/preview.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ Este é um projeto de um assistente inteligente para estudos de **programação 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/assistente-programacao.git
+git clone https://github.com/amanda-scarvalho/assistente-programacao.git
 ```
 
 2. Acesse a pasta do projeto:
