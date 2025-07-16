@@ -25,7 +25,7 @@ Este é um projeto de um assistente inteligente para estudos de **programação 
 
 ### 📸 Preview
 
-![Interface do Assistente de Programação](./assets/preview.png)
+![Interface do Assistente de Programação](./assets/preview.jpg)
 
 ---
 
