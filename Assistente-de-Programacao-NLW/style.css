@@ -35,11 +35,11 @@ header img {
 main {
     max-width: 36rem;
     width: 90%;
-    margin: 3rem auto;
+    margin: 4rem auto;
 }
 
 section {
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50%, #E2D45C 100%);
+    background-image:linear-gradient(245deg, #4d23ca 0%, #292cee 50%, #3a9fe2 100%);
     border-radius: 0.625rem;
     padding-top: 4px;
 }
@@ -99,9 +99,10 @@ input {
 }
 
 button {
+    color: #E1E1E6;
     width: 100%;
     border: 0;
-    background-image: linear-gradient(245deg, #9572FC 0%, #43E7AD 50%, #E2D45C 100%);
+    background-image: linear-gradient(245deg, #4d23ca 0%, #292cee 50%, #3a9fe2 100%);
     padding: 0.675rem;
     border-radius: 0.5rem;
     font-weight: bold;
@@ -194,7 +195,7 @@ button:disabled {
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 4rem ) {
     #aiResponse {
         padding: 1rem;
         font-size: 0.875rem;
